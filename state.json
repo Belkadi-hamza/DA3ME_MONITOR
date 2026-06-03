@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "2892": {
+      "quizzes": {},
+      "pdfs": {},
+      "assignments": {}
+    },
+    "2907": {
+      "quizzes": {},
+      "pdfs": {
+        "https://da3me.ma/mod/resource/view.php?id=4069": {
+          "name": "Plan général du module MR IA",
+          "first_seen": "2026-06-03T14:47:58.359755",
+          "last_seen": "2026-06-03T14:47:58.359755"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4060": {
+          "name": "Tutoriel Da3me --Premier Contact",
+          "first_seen": "2026-06-03T14:47:58.359755",
+          "last_seen": "2026-06-03T14:47:58.359755"
+        }
+      },
+      "assignments": {},
+      "title": "Démarrage : prise en main da3me + objectifs du module"
+    },
+    "2893": {
+      "quizzes": {
+        "https://da3me.ma/mod/quiz/view.php?id=4064": {
+          "name": "quiz 1",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        }
+      },
+      "pdfs": {
+        "https://da3me.ma/mod/resource/view.php?id=4063": {
+          "name": "Pre cours 1.PDF",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4065": {
+          "name": "Slides — Cours présentiel 1 (PDF)",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4068": {
+          "name": "Banque QCM — Types de contributions (20 items) — Séance 1 (PDF)",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        }
+      },
+      "assignments": {
+        "https://da3me.ma/mod/assign/view.php?id=4066": {
+          "name": "Dépôt individuel — Résumé (Séance 1)",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        },
+        "https://da3me.ma/mod/assign/view.php?id=4067": {
+          "name": "Dépôt par groupe — Proposition de recherche (Version 0)",
+          "first_seen": "2026-06-03T14:47:58.362053",
+          "last_seen": "2026-06-03T14:47:58.362053"
+        }
+      },
+      "title": "Introduction à la recherche en IA"
+    },
+    "2908": {
+      "quizzes": {
+        "https://da3me.ma/mod/quiz/view.php?id=4086": {
+          "name": "quiz 2",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        }
+      },
+      "pdfs": {
+        "https://da3me.ma/mod/resource/view.php?id=4084": {
+          "name": "Pre cours 2.PDF",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4104": {
+          "name": "Slides — Cours présentiel 2 - partie -1-(PDF)",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4146": {
+          "name": "Slides — Cours présentiel 2 - partie -2-(PDF)",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        }
+      },
+      "assignments": {
+        "https://da3me.ma/mod/assign/view.php?id=4105": {
+          "name": "Dépôt individuel — Activité 1 (Séance 2)",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        },
+        "https://da3me.ma/mod/assign/view.php?id=4107": {
+          "name": "Dépôt par groupe — Proposition de recherche (V1)",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        },
+        "https://da3me.ma/mod/assign/view.php?id=4147": {
+          "name": "Dépôt par groupe — Analyse critique et amélioration d’une proposition de recherche",
+          "first_seen": "2026-06-03T14:47:58.364769",
+          "last_seen": "2026-06-03T14:47:58.364769"
+        }
+      },
+      "title": "De l’idée au problème de recherche"
+    },
+    "2917": {
+      "quizzes": {
+        "https://da3me.ma/mod/quiz/view.php?id=4129": {
+          "name": "quiz 3",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/quiz/view.php?id=4158": {
+          "name": "quiz 4",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        }
+      },
+      "pdfs": {
+        "https://da3me.ma/mod/resource/view.php?id=4128": {
+          "name": "Pre cours 3.PDF",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4131": {
+          "name": "Slides — Cours présentiel 3 (PDF)",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4157": {
+          "name": "Exemple d'étude cartographique",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4166": {
+          "name": "Slides — Cours présentiel 4 (PDF)",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/resource/view.php?id=4160": {
+          "name": "Exemple revue systématique",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        }
+      },
+      "assignments": {
+        "https://da3me.ma/mod/assign/view.php?id=4148": {
+          "name": "Dépôt par groupe — TP – Réalisation d’une étude cartographique à partir de votre proposition de recherche",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/assign/view.php?id=4167": {
+          "name": "Dépôt par groupe — Étude cartographique et revue systématique de littérature",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        },
+        "https://da3me.ma/mod/assign/view.php?id=4190": {
+          "name": "Version révisée — Étude cartographique et revue systématique de littérature",
+          "first_seen": "2026-06-03T14:47:58.367201",
+          "last_seen": "2026-06-03T14:47:58.367201"
+        }
+      },
+      "title": "De cartographie vers RSL"
+    },
+    "2924": {
+      "quizzes": {
+        "https://da3me.ma/mod/quiz/view.php?id=4186": {
+          "name": "quiz 5",
+          "first_seen": "2026-06-03T14:52:17.163622",
+          "last_seen": "2026-06-03T14:52:17.163622"
+        }
+      },
+      "pdfs": {
+        "https://da3me.ma/mod/resource/view.php?id=4183": {
+          "name": "Pre cours 5 .PDF",
+          "first_seen": "2026-06-03T14:47:58.370184",
+          "last_seen": "2026-06-03T14:52:17.163622"
+        }
+      },
+      "assignments": {},
+      "title": "Designs de recherche et protocoles expérimentaux"
+    }
+  }
+}
